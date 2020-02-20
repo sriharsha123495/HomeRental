@@ -1,0 +1,34 @@
+@charset "ISO-8859-1";
+
+#header {
+	display: flex;
+	flex basis: 50;
+	border style: solid;
+	background-color: orange;
+}
+
+#reg {
+	padding-left: 70%
+}
+
+#banner {
+	padding-top:3%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%
+}
+
+#regbutton {
+	padding-left: 40%;
+    padding-top:2%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#Register {
+	padding-left: 40%;
+	padding-top: 10%;
+}
+
