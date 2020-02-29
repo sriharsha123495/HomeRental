@@ -15,14 +15,14 @@
 		<div id="reg">
 			<a href="Registration.jsp" style="color: white"><h2>Registration</h2></a>
 			<div id="log"></div>
-			<a href="LogIn.jsp" style="color: white"><h2>LogIn</h2></a>
+			<a href="Login.jsp" style="color: white"><h2>LogIn</h2></a>
 		</div>
 	</div>
 	<div id="banner">
 		<img src="rent.jpg" alt="houseRent">
 	</div>
 	<div id="regbutton">
-		<a href="registration.jsp"><button>Registration</button></a>
+		<a href="Registration.jsp"><button>Registration</button></a>
 
 	</div>
 </body>
